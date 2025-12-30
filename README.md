@@ -6,6 +6,9 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2020a+-yellow?logo=mathworks)
 ![Medical Imaging](https://img.shields.io/badge/Medical-Imaging-brightgreen)
 ![Research](https://img.shields.io/badge/Research-Project-orange)
+![Computer Vision](https://img.shields.io/badge/Computer-Vision-lightgrey)
+![Research Project](https://img.shields.io/badge/Research-Project-black)
+
 
 Le travail étant soumis à des contraintes de propriété intellectuelle, seul le readme servant d'évaluation du projet peut être mis à disposition publique.
 
